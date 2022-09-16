@@ -3,7 +3,7 @@
 # Source		: https://tools.ietf.org/html/rfc6890
 #				  https://wiki.mikrotik.com/wiki/BOGON_Address_List
 #				  https://ru.wikipedia.org/wiki/IPv4
-# Description	: Script for generating list for Prohibited network (modification).
+# Description	: Script for generating list for Bogon networks (modification).
 #				  These addresses should not come from the Internet and go there
 
 /ip firewall address-list
