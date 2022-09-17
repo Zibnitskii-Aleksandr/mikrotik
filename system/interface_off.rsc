@@ -1,4 +1,3 @@
-#
 # Author: Zibnitskii Aleksandr
 # Date: 14.03.2020
 # Hardware: проверялось в работе на Mikrotik CRS112-8P-4S
